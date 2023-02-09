@@ -1,7 +1,8 @@
 const app = Vue.createApp({
   data(){
     return {
-      message: "Hello Vue!"
+      message: "Hello Vue!",
+      url: "./img/works.jpg"
     }
   }
 });
